@@ -1,5 +1,18 @@
 # Hi there, I'm Tayyiaba Suleman 👋 👩‍⚕️💻
 
+# 
+
+```text
+  ████████   ██████    ██    ██   ██    ██   ███████   ██████   ██████     ██████ 
+  ██    ██  ██    ██    ██  ██     ██  ██       ██    ██    ██  ██    ██   ██    ██ 
+     ██        ██████      ████       ████       ████     ██████  ████████    ██████ 
+     ██       ██    ██      ██         ██       ██    ██  ██    ██  ██    ██  ██    ██ 
+     ██       ██    ██      ██         ██      ████████   ██    ██  ██████    ██    ██ 
+     ██       ██    ██      ██         ██      ██    ██   ██    ██  ██    ██  ██    ██ 
+     ██       ██    ██      ██         ██      ██    ██   ██    ██  ██████    ██    ██ 
+                                                                                        
+        🏥 MEDICINE & CODE 💻
+
 ### 🏥 Pharmacist & Medical Student | 🤖 Backend Automation & Cybersecurity Engineer
 **Bridging Healthcare Precision with Tactical AI & Autonomous Intelligence**
 
